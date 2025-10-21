@@ -1,0 +1,42 @@
+[
+	{
+		"file": "D:\\Unreal Projects\\GameJam2\\Source\\ShootEmUp\\MagicSpell.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\GameJam2\\.vscode\\compileCommands_Default\\ShootEmUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\GameJam2\\Source\\ShootEmUp\\MagicSpell.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\GameJam2\\.vscode\\compileCommands_Default\\ShootEmUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\GameJam2\\Source\\ShootEmUp\\ShootEmUp.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\GameJam2\\.vscode\\compileCommands_Default\\ShootEmUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\GameJam2\\Source\\ShootEmUp\\ShootEmUp.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\GameJam2\\.vscode\\compileCommands_Default\\ShootEmUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Unreal Projects\\GameJam2\\Source\\ShootEmUp\\ShootEmUp.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Unreal Projects\\GameJam2\\.vscode\\compileCommands_Default\\ShootEmUp.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
